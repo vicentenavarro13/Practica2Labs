@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id delete_button
+id et_description
+id et_id
+id et_name
+id et_price
+id recycler_view
+id save_button
+id tv_description
+id tv_name
+id tv_price
+id update_button
+layout activity_main
+layout item_meal
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ZampaMortes
+style Theme.ZampaMortes
+xml backup_rules
+xml data_extraction_rules
